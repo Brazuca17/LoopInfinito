@@ -1,0 +1,5 @@
+File=Resources\Images\arvore.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\ceu.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\chao.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\Images\fumaca.png;Link=;BaseSize=;Resize=;TintColor=;Color=;IsAppIcon=;ForegroundScale=;ForegroundFile=
+File=Resources\AppIcon\appicon.svg;Link=;BaseSize=;Resize=;TintColor=;Color=#512BD4;IsAppIcon=True;ForegroundScale=;ForegroundFile=Resources\AppIcon\appiconfg.svg

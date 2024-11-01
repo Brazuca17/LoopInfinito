@@ -51,9 +51,9 @@ public partial class MainPage : ContentPage
 			(A as Image).WidthRequest = w;
 
 
-		HSLayer1.WidthRequest = w * 1.5;
-		HSLayer2.WidthRequest = w * 1.5;
-		HSLayer3.WidthRequest = w * 1.5;
-		HSLayerChao.WidthRequest = w * 1.5;
+		HSLayer1.WidthRequest = w;
+		HSLayer2.WidthRequest = w;
+		HSLayer3.WidthRequest = w;
+		HSLayerChao.WidthRequest = w; 
 	}
 }

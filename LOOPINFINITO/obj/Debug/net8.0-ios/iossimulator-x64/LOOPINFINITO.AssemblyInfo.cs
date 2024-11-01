@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOOPINFINITO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f168ac969874baaef076ecb74e10b823f3c43f00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+680e48f1b30b3fe3c6a62db8bf5452069adb4c25")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOOPINFINITO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOOPINFINITO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
